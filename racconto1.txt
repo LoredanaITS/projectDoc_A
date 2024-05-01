@@ -48,9 +48,12 @@ Dopo due tagli vide brillare il cappuccetto rosso, e dopo altri due la bambina s
 "Che paura ho avuto! Era così buio nella pancia del lupo!"
 Poi venne fuori anche la nonna ancora viva.
 E Cappuccetto Rosso andò prendere dei gran pietroni con cui riempirono il ventre del lupo;
-quando egli si svegliò fece per correr via, ma le pietre erano così pesanti che subito cadde a terra e morì.
+quando egli si svegliò fece per correr via,
+git sma le pietre erano così pesanti che subito cadde a terra e morì.
 Erano contenti tutti e tre: il cacciatore prese la pelle del lupo, la nonna mangiò la focaccia e bevve il vino che le aveva portato Cappuccetto Rosso;
 e Cappuccetto Rosso pensava fra se:
+
+
 "Mai più correrai sola nel bosco, lontano dal sentiero, quando la mamma te lo ha proibito."
 
 Raccontano pure che una volta Cappuccetto Rosso portava di nuovo una focaccia alla vecchia nonna,
